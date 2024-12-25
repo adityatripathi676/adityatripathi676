@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Tripathi! 👋
 
-![Profile Banner](https://i.imgur.com/zN4lF2m.jpg)
+![Profile Banner](https://lh3.googleusercontent.com/a/ACg8ocL0-Me5FVUmC-YzZFo30zzxzW0a-XRA0t86xcOlIgAYKEtJJqblmQ=s288-c-no)
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, and continuous learning.
 
