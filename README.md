@@ -1,107 +1,77 @@
-<h1 align="center">Hey there! 👋 I'm Aditya Tripathi</h1>
-<h3 align="center">Developer | Cybersecurity Enthusiast | Tech Innovator</h3>
+# Hi there, I'm Aditya Tripathi! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityatripathi766&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/@aditya_766" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@aditya_766?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
-  </a>
-</p>
+![Profile Banner](https://i.imgur.com/zN4lF2m.jpg)
 
----
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, and continuous learning.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityatripathi766&margin-w=10&margin-h=15&theme=monokai" alt="Trophies" />
-  </a>
-</p>
+## About Me
 
-## 🌟 About Me
-
-I’m a **front-end developer** and **cybersecurity enthusiast** from India 🇮🇳, passionate about building impactful, secure, and accessible tech solutions. With experience in programming, digital forensics, and cybersecurity, I’m constantly exploring new technologies and ways to innovate.
-
-- 👨‍💻 **Check out my projects**: [My GitHub Repos](https://github.com/adityatripathi676)
-- 📫 **Reach me at**: aditya.tripathi7631@gmail.com
+- 🔭 I’m currently working on various web development projects using modern frameworks and technologies.
+- 🌱 I’m constantly learning and exploring new technologies. Currently diving deep into **React** and **Node.js**.
+- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, and **web development** in general.
+- 📫 How to reach me: [adityatripathi676@gmail.com](mailto:adityatripathi676@gmail.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ---
 
-## 📫 Connect with Me
+## Tech Stack
 
-<p align="center">
-  <a href="https://codepen.io/@adityatripathi468" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/@aditya_766" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/aditya766" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/user:19783853" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/adityatripathi766" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@aditya.tripathi7631" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@aditya_tripathi7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/user8081tg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## GitHub Stats
 
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <!-- Add other icons similarly -->
-</p>
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityatripathi676&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatripathi676&layout=compact&theme=radical)
 
 ---
 
-## 📈 My GitHub Stats
+## Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityatripathi766&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityatripathi766&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatripathi766&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityatripathi676/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityatripathi676)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adityatripathi676.dev)
 
 ---
 
-## 🚀 Featured Projects
+## Recent Projects
 
-- 🌐 **[Project 1: Name](https://github.com/link)** - Brief description of the project.
-- 🌐 **[Project 2: Name](https://github.com/link)** - Brief description of the project.
-- 🌐 **[Project 3: Name](https://github.com/link)** - Brief description of the project.
+### Project 1: Awesome Web App
+A brief description of your project. [Check it out!](https://github.com/adityatripathi676/awesome-web-app)
+
+### Project 2: Another Cool Project
+A brief description of your project. [Check it out!](https://github.com/adityatripathi676/another-cool-project)
 
 ---
 
-Feel free to explore my repositories, connect on social media, or drop an email! Looking forward to collaborating and building cool stuff together! 🚀
+## Blog Posts
+
+### [How to Get Started with React](https://adityatripathi676.dev/how-to-get-started-with-react)
+A beginner-friendly guide to understanding the basics of React.
+
+### [Understanding Node.js and Express](https://adityatripathi676.dev/understanding-nodejs-and-express)
+An in-depth look at building backend applications using Node.js and Express.
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech!
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=adityatripathi676.adityatripathi676)
